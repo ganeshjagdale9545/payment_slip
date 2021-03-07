@@ -554,5 +554,4 @@ def change():
   sc3.focus_set()
  return
 
-main()
-#validate()
+validate()
